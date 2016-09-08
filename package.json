@@ -1,0 +1,26 @@
+{
+    "name": "terratex-reloaded-reallife-node-api",
+    "version": "1.0.0-Alpha.1",
+    "description": "Node API for TerraTex Reloaded Reallife Database and GameMode",
+    "main": "src/index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TerraTex-Community/TerraTex-Reloaded-Reallife-Node-API.git"
+    },
+    "author": "TerraTex-Community",
+    "license": "cc by-nc 4.0",
+    "bugs": {
+        "url": "https://github.com/TerraTex-Community/TerraTex-Reloaded-Reallife-Node-API/issues"
+    },
+    "homepage": "https://github.com/TerraTex-Community/TerraTex-Reloaded-Reallife-Node-API#readme",
+    "dependencies": {
+        "express": "^4.14.0"
+    }
+}
