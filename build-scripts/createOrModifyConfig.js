@@ -14,15 +14,15 @@ let configFile = false;
 let writeToConfig = false;
 let createByExample = false;
 
-process.argv.forEach(function (val, index, array) {
+process.argv.forEach(function (val) {
     let variable = val.split("=", 1)[0];
     let value = val.split("=");
     value.shift();
     value = value.join("=");
 
-    if (variable == "--config") {
+    if (variable === "--config") {
         configFile = value;
-    } else if (variable == "--ef") {
+    } else if (variable === "--ef") {
         createByExample = true;
     } else {
         data[variable] = value;

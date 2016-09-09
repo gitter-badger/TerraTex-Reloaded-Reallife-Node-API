@@ -11,5 +11,5 @@ app.get('/', function (req, res) {
 });
 
 app.listen(23111, function () {
-    console.log('Example app listening on port 23111!');
+    console.info('Example app listening on port 23111!');
 });
