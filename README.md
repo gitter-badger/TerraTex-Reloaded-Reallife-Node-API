@@ -1,4 +1,6 @@
 # TerraTex-Reloaded-Reallife-Node-API
+
+[![Join the chat at https://gitter.im/TerraTex-Community/TerraTex-Reloaded-Reallife-Node-API](https://badges.gitter.im/TerraTex-Community/TerraTex-Reloaded-Reallife-Node-API.svg)](https://gitter.im/TerraTex-Community/TerraTex-Reloaded-Reallife-Node-API?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 An API that will provide a compelete REST API for the Database and Also Ingamedata for TerraTex Reloaded Reallife
 
 [![Build Status](http://build.terratex.eu:8080/job/%7BTerraTex%20Reallife%20Reloaded%20CP%7D%20API%20Node%20-%20build%20and%20test/badge/icon)](http://build.terratex.eu:8080/job/%7BTerraTex%20Reallife%20Reloaded%20CP%7D%20API%20Node%20-%20build%20and%20test/)
